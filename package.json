@@ -1,0 +1,12 @@
+{
+  "name": "electron-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^35.2.1"
+  },
+  "scripts": {
+    "dev": "electron ."
+  }
+}
